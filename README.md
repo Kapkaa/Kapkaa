@@ -37,9 +37,7 @@
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
 
 <br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=skrimusss&label=Profile%20Views&color=11&icon=5&pretty=true" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapkaa&label=Profile%20views&color=0e75b6&style=flat" alt="kapkaa" /> </p>
 </details>
 	
 <details><summary><b>👨‍💻 VSCode Settings</b></summary>
