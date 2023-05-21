@@ -1,15 +1,15 @@
 ### Hello there 🖐
 
-<p>🌱 I work as a Junior Frontend Developer. I'm developing applications in React/Next, but in the meantime I'm learning node.js because my next goal is to become a fullstack developer 🙂</p>
+<p>🌱 Young perspective FrontEnd Developer 🙂</p>
 
 ---
 
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 👦 I'm 22 years old
-<li> 🌱 I'm coding in JavaScript
-  <li> 🔭 I'm currently JavaScript
+  <li> 👦 I'm 22 years old.
+<li> 🌱 I'm coding in JavaScript.
+  <li> 🔭 I'm currently learning JavaScript.
 </ul>
 
 <details><summary><b>💻 Tech Stack</b></summary>
@@ -26,7 +26,7 @@
 
 </details>
 
-<details><summary><b>📧 Contact me</b></summary>
+<details><summary><b>📧 Contact me</b></summary><br>
     <ul>
         <li><strong>Discord: </strong> <code>Kapka1337#8460</code></li>
         <li><strong>E-mail: </strong> <code>ioio444675@gmail.com</code></li>
