@@ -12,12 +12,6 @@
   <li> 🔭 I'm currently JavaScript
 </ul>
 
-**🌱 Main and Favourite Stack**
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 <details><summary><b>💻 Tech Stack</b></summary>
 	
 ### Languages:
@@ -41,7 +35,8 @@
 </details>
 	
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
-	
+
+<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=skrimusss&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
